@@ -1,0 +1,7 @@
+Regresi adalah salah satu metode dalam analisis data yang digunakan untuk melihat hubungan antara variabel. Intinya, regresi membantu kita memahami bagaimana suatu nilai (output) bisa dipengaruhi oleh nilai lain (input). Contoh paling sederhana adalah mencari tahu apakah jumlah jam belajar berpengaruh terhadap nilai ujian. Dengan regresi, kita tidak hanya melihat hubungan, tapi juga bisa membuat prediksi berdasarkan pola data yang ada.
+
+Secara konsep, regresi mencoba membuat sebuah garis atau model yang “mendekati” data yang kita punya. Misalnya, jika kita punya data jam belajar dan nilai, regresi akan mencari garis terbaik yang menggambarkan hubungan tersebut. Garis ini biasanya ditulis dalam bentuk persamaan seperti: nilai = a + b × (jam belajar). Nilai a adalah konstanta, sedangkan b menunjukkan seberapa besar pengaruh jam belajar terhadap nilai.
+
+Contoh sederhana menggunakan data dummy: misalnya kita punya data berikut — (2 jam, nilai 60), (4 jam, nilai 70), (6 jam, nilai 80). Dari pola ini, terlihat bahwa semakin lama belajar, nilai semakin tinggi. Dengan regresi, kita bisa membuat model seperti: nilai = 50 + 5 × (jam belajar). Artinya, setiap tambahan 1 jam belajar akan meningkatkan nilai sekitar 5 poin.
+
+Dengan model tersebut, kita bisa melakukan prediksi. Misalnya, jika seseorang belajar selama 5 jam, maka prediksi nilainya adalah: 50 + 5 × 5 = 75. Walaupun ini hanya perkiraan, regresi sangat berguna dalam banyak bidang seperti bisnis, pendidikan, dan teknologi karena membantu pengambilan keputusan berbasis data, bukan sekadar asumsi.
