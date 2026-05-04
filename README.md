@@ -2,11 +2,14 @@
 
 Dalam dunia Sistem Informasi, regresi adalah salah satu teknik penting untuk mengolah data menjadi keputusan. Tiga model yang sering digunakan adalah regresi linear sederhana, regresi linear berganda, dan regresi logistik. Masing-masing punya fungsi yang berbeda tergantung kebutuhan.
 
-Regresi linear sederhana digunakan ketika hanya ada satu faktor utama. Contohnya dalam dropshipping, kita bisa memprediksi penjualan hanya dari budget iklan. Ini cocok untuk analisis cepat dan sederhana, tapi kurang akurat jika faktor lain juga berpengaruh.
+Regresi linear sederhana digunakan ketika hanya ada satu faktor utama. Contohnya dalam dropshipping, kita bisa memprediksi penjualan hanya dari budget iklan. Ini cocok untuk analisis cepat dan sederhana, tapi kurang akurat jika faktor lain juga berpengaruh.  
+🔗 Referensi: https://www.geeksforgeeks.org/ml-linear-regression/
 
-Regresi linear berganda lebih kompleks karena melibatkan banyak variabel. Dalam bisnis, ini jauh lebih realistis. Kita bisa menganalisis pengaruh harga, rating, review, dan iklan secara bersamaan untuk memprediksi omzet. Model ini cocok untuk dashboard analitik dan strategi bisnis.
+Regresi linear berganda lebih kompleks karena melibatkan banyak variabel. Dalam bisnis, ini jauh lebih realistis. Kita bisa menganalisis pengaruh harga, rating, review, dan iklan secara bersamaan untuk memprediksi omzet. Model ini cocok untuk dashboard analitik dan strategi bisnis.  
+🔗 Referensi: https://www.geeksforgeeks.org/ml-multiple-linear-regression/
 
-Regresi logistik digunakan bukan untuk angka, tapi untuk keputusan. Misalnya menentukan apakah suatu produk akan laris atau tidak. Ini sangat berguna dalam dropshipping karena bisa membantu kita memilih produk sebelum dijual, sehingga mengurangi risiko rugi.
+Regresi logistik digunakan bukan untuk angka, tapi untuk keputusan. Misalnya menentukan apakah suatu produk akan laris atau tidak. Ini sangat berguna dalam dropshipping karena bisa membantu kita memilih produk sebelum dijual, sehingga mengurangi risiko rugi.  
+🔗 Referensi: https://www.geeksforgeeks.org/understanding-logistic-regression/
 
 ## Penerapan dalam Dunia Nyata
 
@@ -23,3 +26,9 @@ Jika diimplementasikan dalam sistem informasi, kita bisa membuat:
 - Sistem seleksi produk otomatis
 
 Dengan memanfaatkan regresi, keputusan bisnis tidak lagi berdasarkan feeling, tapi berdasarkan data. Ini yang membedakan bisnis biasa dengan bisnis yang sudah data-driven.
+
+## Referensi Tambahan
+
+- https://scikit-learn.org/stable/modules/linear_model.html
+- https://towardsdatascience.com/introduction-to-linear-regression-in-python-9a1f5f000f6a
+- https://www.ibm.com/topics/logistic-regression
