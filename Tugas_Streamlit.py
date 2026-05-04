@@ -57,5 +57,4 @@ st.pyplot(plt)
 #Kesimpulan
 st.subheader('Kesimpulan')
 text = '''Dari analisis data pelanggan mall, dapat disimpulkan bahwa terdapat variasi dalam usia, pendapatan tahunan, dan skor pengeluaran pelanggan. Distribusi usia menunjukkan bahwa sebagian besar pelanggan berada dalam rentang usia 20-40 tahun. Distribusi pendapatan tahunan menunjukkan bahwa sebagian besar pelanggan memiliki pendapatan antara 40-70 k$. Sedangkan distribusi skor pengeluaran menunjukkan bahwa sebagian besar pelanggan memiliki skor pengeluaran antara 40-60. Hubungan antara usia dan skor pengeluaran menunjukkan bahwa tidak ada pola yang jelas, sementara hubungan antara pendapatan tahunan dan skor pengeluaran menunjukkan bahwa pelanggan dengan pendapatan lebih tinggi cenderung memiliki skor pengeluaran yang lebih tinggi.'''
-
 st.write(f'<div style="text-align: justify;">{text}</div>', unsafe_allow_html=True)
